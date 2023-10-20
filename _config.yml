@@ -21,7 +21,7 @@
 title: Blog do Quinta
 email: cquinta@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog para trocar informações sobre alguns projetos meus aqui no github.
+  Este site é para trocar algumas ideias sobre alguns projetos aqui no github.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: catqnm
